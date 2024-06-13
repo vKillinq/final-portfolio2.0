@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+  background-color:#005711;
+  color: gray;
+  font-size: 40px;
+
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: gray;
+  overflow: hidden;
+  
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  color: black;
+}
+
+.name{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  float: left;
+  padding: 14px 16px;
+}
+.title{
+  color: gray;
+  text-align: center;
+  font-size: 50px;
+}
+.heading-2{
+  color: gray;
+  text-align: center;
+  font-size: 30px;
+}
+
+.words{
+  font-size: 25px;
+  text-align: center;
+
+}
+#img{
+  margin-left: 60%;
+}
+.projects{
+  margin-left: auto;
+  margin-right: auto; 
+  width:72.3vw;
+  border: #E4DBDB;
+}
+#what-watch{
+  border-radius: 30%;
+  width: auto;
+  height: 450px;
+  margin-left: auto;
+    margin-right: auto;
+}
+#first-web{
+  border-radius: 50%;
+  width: auto;
+  height: 450px;
+  margin-left: auto;
+    margin-right: auto;
+
+}
+.des-1{
+  font-size: 40px;
+  margin-left: auto;
+  margin: auto; 
+  width:72.3vw;
+  color:whitesmoke
+}
+#h1{
+  text-align: center;
+  
+}
+.des-2{
+  color: white
+}
+.about1{
+  color: floralwhite;
+}
+.h12{
+  color: floralwhite;
+}
+.words{
+  color: white;
+}
+.project23{
+  color: navajowhite;
+  text-align: center;
+}
